@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jbox2d-2.0.1-library-only">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/resource/jbox2d-2.0.1-library-only.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
